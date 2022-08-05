@@ -1,6 +1,6 @@
 😁Olá eu sou Danilo-Cerqueira😇
 👨‍💻 Hoje trabalho com front-end
-📚 Estudando automação de testes ⌨🖱
+📚 Já colocando meu conhecimento de automação em pratica ⌨🖱
 
 <div align="center">
   <a href="https://github.com/DaniloCerqueira1227">
