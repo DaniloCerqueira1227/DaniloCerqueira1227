@@ -1,5 +1,4 @@
 😁Olá eu sou Danilo-Cerqueira😇
-👨‍💻 Hoje trabalho com front-end
 📚 Já colocando meu conhecimento de automação em pratica ⌨🖱
 
 <div align="center">
