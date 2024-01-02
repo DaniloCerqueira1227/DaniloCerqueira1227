@@ -1,5 +1,5 @@
 😁Olá eu sou Danilo-Cerqueira😇
-📚 Já colocando meu conhecimento de automação em pratica ⌨🖱
+📚 Já colocando meu conhecimento de automação em prática ⌨🖱
 
 <div align="center">
   <a href="https://github.com/DaniloCerqueira1227">
